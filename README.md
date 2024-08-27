@@ -36,6 +36,7 @@
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://www.gstatic.com/devrel-devsite/prod/v8947781dbf9bdb725665188e77fe7f24754d096c78ed49a1efb97022cc3ba87f/firebase/images/touchicon-180.png" alt="Firebase" height="50" /></a>  
+<a href="https://react.dev/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="Firebase" height="50" /></a>  
 </div>
 
 
