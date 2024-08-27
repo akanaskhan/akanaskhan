@@ -4,7 +4,7 @@
 ### <div align="center">I’m a front-end developer driven by a passion for creating websites and web applications.</div>  
   
 
-- 🌱 I’m currently learning JavaScript and TypeScript  
+- 🌱 I’m currently learning JavaScript and React
   
 
 - 👨‍💻 All of my projects available at [akanaskhan](https://akanaskhan.com)  
