@@ -4,13 +4,13 @@
 ### <div align="center">I’m a front-end developer driven by a passion for creating websites and web applications.</div>  
   
 
-- 🌱 I’m currently learning JavaScript and React
+- 🌱 I’m currently learning React
   
 
 - 👨‍💻 All of my projects available at [akanaskhan](https://akanaskhan.com)  
   
 
-- ❓ Ask me about C, HTML, CSS, Java, and JavaScript  
+- ❓ Ask me about C, HTML, CSS, Java, JavaScript and ReactJs  
   
 
 - How to reach me [muhammadanaskhanak@gmail.com](https://mail.google.com/mail/muhammadanaskhanak@gmail.com)  
