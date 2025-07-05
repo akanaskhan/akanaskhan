@@ -7,15 +7,16 @@
 - 🌱 I’m currently learning ReactJs
   
 
-- 👨‍💻 All of my projects available at [akanaskhan](https://akanaskhan.com)  
+- 👨‍💻 All of my projects available at [akanaskhan](https://akanaskhan.vercel.app)  
   
 
 - ❓ Ask me about C, HTML, CSS, Java, JavaScript and ReactJs  
   
 
 - How to reach me [muhammadanaskhanak@gmail.com](https://mail.google.com/mail/muhammadanaskhanak@gmail.com)  
-  
 
+  
+- 👨‍💻 See my portfolio [Portfolio](https://akanaskhan.vercel.app)
 <br/>  
 
 
