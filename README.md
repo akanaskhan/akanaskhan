@@ -31,7 +31,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="40"/></a>
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="40"/></a>
   <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.gstatic.com/devrel-devsite/prod/v8947781dbf9bdb725665188e77fe7f24754d096c78ed49a1efb97022cc3ba87f/firebase/images/touchicon-180.png" alt="Firebase" width="40"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.gstatic.com/devrel-devsite/prod/v5c6c2ba835e8720a8eaa6bc4810fa5cab5cbf351b6cee9f9510467b6e0c34519/firebase/images/touchicon-180.png" alt="Firebase" width="40"/></a>
   <a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"/></a>
   <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next" width="40"/></a>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" width="40"/></a>
